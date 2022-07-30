@@ -1,5 +1,5 @@
 [package]
-name = "hello-rust"
+name = "swagger_stitcher"
 version = "0.1.0"
 authors = ["dino16m <anselem16m@gmail.com>"]
 edition = "2018"
